@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.communication.controller;
 
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.context.request.async.DeferredResult;

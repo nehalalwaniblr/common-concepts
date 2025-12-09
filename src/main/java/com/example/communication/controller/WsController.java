@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.communication.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.messaging.handler.annotation.MessageMapping;
